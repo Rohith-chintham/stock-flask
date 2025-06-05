@@ -1,4 +1,4 @@
-git clone https://github.com/Rohith-chintham/stock-flask.git
+git clone https://github.com/Rohith-chintham/stock-streamlit.git
 
 cd stock-flask
 
